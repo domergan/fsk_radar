@@ -2,6 +2,10 @@
 
 Python implementation of a BFSK radar using the BGT24ATR22-YPA. Builds on the Time-Frequency-Range diagram TFRgram method described by Rogers (2007) and previously applied to traffic monitoring by Paulsson (2016).
 
+## Example output
+
+![TFRgram](figures/TFRgram.pdf)
+
 ## References
 
 - Rogers, D. (2007), Development and Testing of a Multiple Frequency Continuous Wave Radar for Target Detection and Classification
