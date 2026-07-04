@@ -1,6 +1,6 @@
 # FSK radar using the Infineon BGT24ATR22
 
-Python implementation of a BFSK radar using the BGT24ATR22-YPA. Builds on the Time-Frequency-Range diagram TFRgram method described by Rogers (2007) and previously applied to traffic monitoring by Paulsson (2016).
+Python implementation of a BFSK radar using the BGT24ATR22-YPA Doppler radar evaluation board. Builds on the Time-Frequency-Range diagram TFRgram method described by Rogers (2007) and previously applied to traffic monitoring by Paulsson (2016).
 
 ## Example output (walking person in LOS)
 
