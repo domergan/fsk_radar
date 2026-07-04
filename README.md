@@ -1,1 +1,9 @@
-# fsk_radar
+# FSK radar using the Infineon BGT24ATR22
+
+Python implementation of a BFSK radar using the BGT24ATR22-YPA. Builds on the Time-Frequency-Range diagram TFRgram method described by Rogers (2007) and previously applied to traffic monitoring by Paulsson (2016).
+
+## References
+
+- Rogers, D. (2007), Development and Testing of a Multiple Frequency Continuous Wave Radar for Target Detection and Classification
+- Paulsson, T. (2016), Traffic Monitoring.
+- Infineon Radar Development Kit (RDK), MATLAB/C++ reference implementation for the BGT24ATR22.
