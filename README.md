@@ -2,9 +2,11 @@
 
 Python implementation of a BFSK radar using the BGT24ATR22-YPA. Builds on the Time-Frequency-Range diagram TFRgram method described by Rogers (2007) and previously applied to traffic monitoring by Paulsson (2016).
 
-## Example output
+## Example output (walking person in LOS)
 
-![TFRgram](figures/TFRgram.pdf)
+![TFRgram](figures/TFRgram.pdf) \
+![Velocity](figures/velocity_median_filter.pdf) \
+![Range](figures/range_median_filter.pdf)
 
 ## References
 
